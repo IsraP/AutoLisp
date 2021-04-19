@@ -7,5 +7,5 @@
   (setvar "luprec" 2) ; muda a precisão das coordenadas para 2 (default 4)
   (command "text" pause "1.0" pause p1) ; mostra na tela as coordenadas do ponto p1
   (setvar "cmdecho" 1) ; Permite que os comandos aparecam na tela
-  (princ) ; ... printa na tela?
+  (princ)
 )
